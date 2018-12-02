@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <string name="description1">Description  1</string>
+    <string name="description2">Description  2</string>
+    <string name="description3">Description  3</string>
+    <string name="description4">Description  4</string>
+    <string name="description5">Description  5</string>
+    <string name="description6">Description  6</string>
+    <string name="description7">Description  7</string>
+    <string name="description8">Description  8</string>
+    <string name="description9">Description  9</string>
+    <string name="description10">Description 10 </string>
+    <string name="description11">Description  11</string>
+    <string name="description12">Description  12</string>
+    <string name="description13">Description  13</string>
+    <string name="description14">Description  14</string>
+    <string name="description15">Description  15</string>
+    <string name="description16">Description  16</string>
+    <string name="description17">Description  17</string>
+    <string name="description18">Description  18</string>
+    <string name="description19">Description  19</string>
+    <string name="description20">Description  20</string>
+
+    <string name="location1">Location 1</string>
+    <string name="location2">Location 2</string>
+    <string name="location3">Location 3</string>
+    <string name="location4">Location 4</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
